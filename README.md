@@ -1,4 +1,4 @@
-# FlickrImageSearch_Node_Server
+# Flickr image diplay using Bootstrap and Interaction with the other Server
 The Node server interacts with the Frontend and the other web server which is responsible for interacting with the database and with the flickr api.
 
 On hitting the URL of this web server, it gets the json response from the other server which sends values in this format :
